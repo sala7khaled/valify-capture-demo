@@ -179,6 +179,7 @@
 				DEVELOPMENT_TEAM = D3WMCF7Y5L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ValifyCaptureDemo/Resources/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Valify Demo";
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need camera permission to capture your selfie for the verification process";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -209,6 +210,7 @@
 				DEVELOPMENT_TEAM = D3WMCF7Y5L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ValifyCaptureDemo/Resources/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Valify Demo";
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need camera permission to capture your selfie for the verification process";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
