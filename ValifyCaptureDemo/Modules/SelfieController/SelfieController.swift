@@ -12,8 +12,10 @@ class SelfieController: UIViewController {
     // MARK: - Outlets
     @IBOutlet weak var selfieImage: UIImageView!
     
+    
     // MARK: - Properties
     let selfieData: Data
+    
     
     // MARK: - Init
     init(selfieData: Data!) {
@@ -24,6 +26,7 @@ class SelfieController: UIViewController {
     required init?(coder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
+    
     
     // MARK: - Life Cycle
     override func viewDidLoad() {

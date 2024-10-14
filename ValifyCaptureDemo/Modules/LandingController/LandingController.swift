@@ -15,6 +15,7 @@ class LandingController: UIViewController {
         super.viewDidLoad()
     }
     
+    
     // MARK: - Actions
     @IBAction func cameraButtonClicked(_ sender: Any) {
         let captureController = CaptureController(delegate: self)
@@ -22,6 +23,7 @@ class LandingController: UIViewController {
     }
     
 }
+
 
 // MARK: - Extensions
 extension LandingController: ValifyCaptureRouter {
